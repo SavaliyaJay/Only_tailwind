@@ -20,8 +20,9 @@ This my fully responsive talwind css project in which i create a responsive navb
     @tailwind components;
     @tailwind utilities;
     
-    
-  
-
+    ## **Simple Web Page**
 ![img](https://user-images.githubusercontent.com/102573818/226439808-f68c4cf6-43f4-41ed-a12f-25714af14197.png)
+
+
+    ## **with responsive**
 ![img1](https://user-images.githubusercontent.com/102573818/226439976-67b6d28b-23bf-463f-b61a-973954cc4afc.png)
